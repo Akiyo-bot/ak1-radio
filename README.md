@@ -7,7 +7,7 @@ Une radio dans le jeu qui utilise l'API radio mumble-voip pour FiveM & RedM
 
 |Dernière version|
 |:-:|
-|[![Build status]()|
+|[![Build status](https://ci.appveyor.com/api/projects/status/inf2kinljmp8a5ul?svg=true)](https://ci.appveyor.com/project/TomGrobbe/vmenu)|
 
 
 --------
