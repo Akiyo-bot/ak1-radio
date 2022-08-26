@@ -1,11 +1,7 @@
 # ak1-radio
 Une radio dans le jeu qui utilise l'API radio mumble-voip pour FiveM & RedM
 
-Getters
-
-| Export           | Description                                         | Return type |
-| ---------------- | --------------------------------------------------- | ----------- |
-| OuvrirRadioMenu  | Oure la radio                                       | bool        |
+## Non ouverte
 
 Credits :
   - [Menu & Script : Akyio](https://github.com/Akiyo-bot)
