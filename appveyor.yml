@@ -1,3 +1,9 @@
+pull_requests:
+  do_not_increment_build_number: false
+image: Visual Studio 2019
+configuration: Release
+before_build:
+  - nuget restore
 deploy:
   - provider: GitHub
     release: "[Release] ak1-radio $(VERSION_NAME)"
