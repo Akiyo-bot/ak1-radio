@@ -7,6 +7,5 @@ Credits :
   - [Menu & Script : Akyio](https://github.com/Akiyo-bot)
   - [Notification : LeDieuSoutehk](https://github.com/LeDieuSoutehk/)
 
-[PrivacyPolicies](https://www.privacypolicies.com/live/74d6a52f-abfb-435b-81f2-aeadd7d884df)
 
-Copyright © 2022
+Copyright © 2022 - [PrivacyPolicies](https://www.privacypolicies.com/live/74d6a52f-abfb-435b-81f2-aeadd7d884df)
