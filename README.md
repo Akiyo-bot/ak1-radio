@@ -5,11 +5,6 @@ Une radio dans le jeu qui utilise l'API radio mumble-voip pour FiveM & RedM
 
 ## Non ouverte.
 
-|Dernière version|
-|:-:|
-|[![Build status](https://ci.appveyor.com/api/projects/status/inf2kinljmp8a5ul?svg=true)](https://ci.appveyor.com/project/Akiyo-bot/ak1-radio)|
-
-
 --------
 
 Credits :
