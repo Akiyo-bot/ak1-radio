@@ -15,7 +15,3 @@ deploy:
     on:
       APPVEYOR_REPO_TAG: true
     description: "vMenu version $(VERSION_NAME)."
-on_success:
-  - cmd: "Success"
-on_failure:
-  - cmd: "Erreur"
